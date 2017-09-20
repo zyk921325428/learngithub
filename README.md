@@ -1,7 +1,6 @@
 # learngithub
 
 
-<<<<<<< HEAD
 master diff
 =======
 feature1
